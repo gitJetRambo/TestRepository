@@ -5,3 +5,6 @@ this is another edit from local to test merge with remote changes
 this is edit test from remote repo
 
 this is once more change from remote
+
+this is once again change from local
+
